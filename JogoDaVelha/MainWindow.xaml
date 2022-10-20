@@ -28,7 +28,6 @@
         <Image x:Name="_09" HorizontalAlignment="Left" Height="87" Margin="226,264,0,0" VerticalAlignment="Top" Width="88" Source="/Design sem nome (1).png" Visibility="Hidden"/>
         <Image x:Name="_06" HorizontalAlignment="Left" Height="87" Margin="227,163,0,0" VerticalAlignment="Top" Width="88" Source="/Design sem nome (1).png" Visibility="Hidden"/>
         <Image x:Name="_03" HorizontalAlignment="Left" Height="87" Margin="227,61,0,0" VerticalAlignment="Top" Width="88" Source="/Design sem nome (1).png" Visibility="Hidden"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="113,206,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
