@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Design sem nome %281%29.png" />
+    <None Remove="Design sem nome.png" />
+    <None Remove="velha.png" />
+    <None Remove="VENHA COMER UM.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Design sem nome (1).png" />
+    <Resource Include="Design sem nome.png" />
+    <Resource Include="velha.png" />
+    <Resource Include="VENHA COMER UM.png" />
+  </ItemGroup>
+
+</Project>
